@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# hualai-tea-official-website
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project offers a UI framework for HuaLai Tea, enabling the display of tea products with images and prices, along with an upcoming transaction feature. It also includes About and Contact pages for enhanced user and vendor communication.
 
 ## Available Scripts
 
@@ -68,3 +68,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+# Contributing
+If you want to contribute to this project, please fork this repository and create a pull request, or drop me an email at kha112@sfu.ca
