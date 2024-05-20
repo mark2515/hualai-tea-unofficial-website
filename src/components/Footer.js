@@ -8,7 +8,7 @@ function Footer() {
       <div className='socialMedia'>
         <InstagramIcon />
       </div>
-      <p> &copy; 2023 huaLaiTea.com </p>
+      <p> &copy; huaLaiTea.com </p>
     </div>
   )
 }

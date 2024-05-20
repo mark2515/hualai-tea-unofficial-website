@@ -9,7 +9,7 @@ function Products() {
       <h1 className='productsTitle'>Our Products</h1>
       <div className='productsList'>
         {ProductsList.map((productsItem, key) => {
-            return <ProductsItem key={key} image={productsItem.image} name={productsItem.name} price={productsItem.price}/>;
+            return <ProductsItem key={key} image={productsItem.image} name={productsItem.name} price={"$" + productsItem.price}/>;
         })}
       </div>
     </div>

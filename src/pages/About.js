@@ -9,15 +9,12 @@ function About() {
       <div className="aboutBottom">
         <h1> ABOUT US </h1>
         <p>
-        Tea, an elixir of tranquility and a catalyst for social interaction, transcends mere beverage status.
-        Originating from ancient China, its discovery is steeped in legend and cultural significance.
-        Each variety, from the robust, deep flavors of black tea to the delicate, floral notes of white tea, tells a story.
-        These stories are of regions, climates, and traditions that have shaped their unique characteristics.
-        When steeped in hot water, these dried leaves unfurl.
-        This unfurling releases a symphony of aromas and flavors.
-        These flavors and aromas invigorate the senses.
-        Sipping tea is not just a mundane act; it's a moment of meditation, a pause in the day to reflect and rejuvenate.
-        Around the world, tea rituals vary, yet share a common thread of hospitality and companionship, making tea not just a drink, but a globally shared experience.
+        Hunan Hualai Biological technology Co., Ltd. founded in September 2007, 
+        and headquartered in Anhua County Hunan Province which is a collection of the main dark tea producing area, 
+        it is a modern high-tech enterprise integrating tea planting, processing, sales, scientific research, health care, cultural tourism and education promotion. 
+        Since its establishment, Hunan Hualai has continuously integrated resources, 
+        actively explored the market, innovated the management and marketing mode of dark tea industry under the scientific development concept of "developing the dark tea industry, 
+        casting national brands, and building the 'Hualaijian' brand into a large-scale and industrialized industry leading brand", and has now developed into a leading enterprise in the Anhua dark tea industry.
         </p>
       </div>
     </div>
