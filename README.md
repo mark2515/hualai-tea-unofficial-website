@@ -1,6 +1,6 @@
 # hualai-tea-official-website
 
-This project offers a UI framework for HuaLai Tea, enabling the display of tea products with images and prices, along with an upcoming transaction feature. It also includes About and Contact pages for enhanced user and vendor communication. [Visit Here](https://hualai-tea-official-website.vercel.app/)
+A project to practice website layouts. [Visit Here](https://hualai-tea-official-website.vercel.app/)
 
 ## Available Scripts
 
