@@ -1,6 +1,6 @@
-# hualai-tea-official-website
+# hualai-tea-unofficial-website
 
-A project to practice website layouts. [Visit Here](https://hualai-tea-official-website.vercel.app/)
+A project for practicing website layouts. [Visit Here](https://hualai-tea-official-website.vercel.app/)
 
 ## Available Scripts
 
